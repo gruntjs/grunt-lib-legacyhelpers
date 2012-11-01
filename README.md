@@ -2,7 +2,7 @@
 
 > Some old grunt helpers provided for backwards compatability.
 
-Grunt's helper system has been depreciated in favor of node `require`.  If your plugin uses the `concat`, `gzip` or `min_max_info` helpers, you may now include them in your task by adding this package to your devDependencies.
+Grunt's helper system has been depreciated in favor of node `require`.  If your plugin uses the `concat`, `gzip` or `min_max_info` helpers, you may now use them by adding this package to your plugin's dependencies.
 
 ## Usage
 
