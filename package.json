@@ -1,7 +1,7 @@
 {
   "name": "grunt-lib-legacyhelpers",
   "description": "Some old grunt helpers provided for backwards compatability.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://github.com/gruntjs/grunt-lib-legacyhelpers",
   "author": {
     "name": "Grunt Team",
